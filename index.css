@@ -115,13 +115,12 @@ margin-bottom: 10px;
     margin-left: 0.5rem;
     margin-right: 0.5rem;
     box-sizing: border-box;
-    height: 2rem;
+    height: 4rem;
     overflow-y:scroll;
     scrollbar-color: hsl(0, 0%, 15%);
     scrollbar-width: 10px;
     margin-top: 1rem;
 
-    
 }
 .library{
     display: flex;
